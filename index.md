@@ -107,7 +107,14 @@ To add a new antenna, navigate to the "Antenna" page and select the "Add Antenna
 The "Admin" dropdown button on the navigation bar provides access to the functionality for adding customers, services, and antennas. Additionally, it includes options for the administrator to manage user accounts and view a list of customers associated with a particular antenna.
 <br>
 The "Manage Account" page is accessible only to users with an "Admin" role and allows them to delete/register users. This page is not visible to users with different roles.
+
 ![screenshot of the manage account page](doc/manageaccounts.png)
+
+<br>
+Users with non-admin role cannot manage accounts
+
+![screenshot of the manage account page for non admin](doc/regularuser.png)
+
 <br>
 
 The "Get Customers" page enables users to view a list of customers and the services associated with a particular antenna.
