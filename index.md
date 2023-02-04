@@ -35,7 +35,7 @@ Users are prompted to enter their username and password for login. Only users wi
 
 ### Home Page
 
-Upon logging in successfully, the home page is displayed. It contains frequently used information regarding the company and links to other internal websites.
+Upon logging in successfully, the home page is displayed. It contains frequently used information regarding the company and links to other internal websites. Additionally, it gives users the ability to modify their password.
 
 ![screenshot of the home page](doc/landingwithlogin.png)
 
