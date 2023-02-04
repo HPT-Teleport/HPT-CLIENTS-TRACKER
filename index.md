@@ -2,7 +2,7 @@
 
 **Note** that all of the examples and information displayed in this documentation are made up and do not use actual client information. The documentation guides the users about various aspects of this application.
 
- <!-- <br>
+ <br>
  This application utilizes various technologies, including:
 
 - [Meteor](https://www.meteor.com/) for Javascript-based client and server code implementation.
@@ -14,7 +14,7 @@
 
 ## Deployment
 
-The application is deployed in the HPT organizations' server and can only be accessible within the local network. -->
+The application is deployed in the HPT organizations' server and can only be accessible within the local network.
 
 <br>
 
@@ -90,7 +90,7 @@ Once complete, submit the form to finalize the process.
 <br>
 By selecting the customer button on the left sidebar, the application will display the services associated with that specific customer
 <br>
-On this page, users have the ability to view and delete the service. Additionally, users have the option to add the service to Spectras, an external device that is utilized for monitoring services. The application interacts with the device through a REST API. Once added to the Spectras application, users can access the latest graph of the service. This feature allows for quick and efficient monitoring of the service status and aids in troubleshooting during issues and outages.
+On this page, users have the ability to view and archive the service. Additionally, users have the option to add the service to Spectras, an external device that is utilized for monitoring services. The application interacts with the device through a REST API. Once added to the Spectras application, users can access the latest graph of the service. This feature allows for quick and efficient monitoring of the service status and aids in troubleshooting during issues and outages.
 
 ![screenshot of the individual services Page](doc/individualservice.png)
 
